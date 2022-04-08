@@ -23,7 +23,7 @@
 
 #### Пример структуры react компонента:
 
-> ![structure_2](https://github.com/slava-ovchinnikov/education-task-calculator/blob/master/doc/structure_2.png?raw=true)
+> ![structure_2](https://github.com/mkrivel/structure/blob/main/structure_2.png)
 
 #### Пояснение для структуры файлов компонента:
 - ***index.js*** - корневой файл для экспорта компонентов.
