@@ -2,7 +2,7 @@
 
 #### Пример необходимой структуры проекта:
 
-> ![structure_1](https://github.com/slava-ovchinnikov/education-task-calculator/blob/master/doc/structure_1.png?raw=true)
+> ![structure_1](https://github.com/mkrivel/structure/blob/main/structure_1.png)
 
 #### Пояснения к корневой папке:
 - ***.vscode*** - папка для конфигурационных файлов ***VS CODE***.
